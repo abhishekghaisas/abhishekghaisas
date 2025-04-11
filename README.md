@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on relevant projects
 - 📫 How to reach me
-Phone: +1(425)772-5085
-Email: abhishekghaisas22@gmail.com
+
+      Phone: +1(425)772-5085
+
+      Email: abhishekghaisas22@gmail.com
 
 <!---
 ghostofsparta10/ghostofsparta10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
